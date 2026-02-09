@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #f5f7fa;
+  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}
+
+.center {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-card {
+  margin-bottom: 16px;
+  background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);
+}
